@@ -4,7 +4,7 @@
 ## 🌍 Sobre mim  
 - 📍 Moro em **Recife, Pernambuco**  
 - 🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
-- 🎓 Pós em **Engenhari de Software**  
+- 🎓 Pós em **Engenharia de Software**  
 - 💻 Desenvolvedora **Fullstack**  
 - ☕ Apaixonada por **Java**  
 
