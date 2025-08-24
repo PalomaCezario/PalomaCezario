@@ -35,10 +35,11 @@
 ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat)  
 
 ---
-
+ 
 ## 📊 GitHub Stats  
-![Paloma's GitHub stats](https://github-readme-stats.vercel.app/api?username=PalomaCezario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaCezario&layout=compact&theme=tokyonight)  
+![Paloma's GitHub stats](https://github-readme-stats.vercel.app/api?username=PalomaCezario&show_icons=true&theme=cobalt)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaCezario&layout=compact&theme=cobalt)  
+
 
 
 
